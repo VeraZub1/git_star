@@ -14,3 +14,7 @@ chapter one. Git command.
   git log 
   git checkout master
 ```
+
+chapter two. PyCharm
+-------------------
+Open git project folder with PyCharm
