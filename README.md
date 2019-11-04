@@ -2,6 +2,7 @@ This repo has been created and called git_star
 ==============================================
 chapter one. Git command.
 ------------------------
+```
   git add file 
   git add *
   git push
@@ -12,4 +13,4 @@ chapter one. Git command.
   git pull -r
   git log 
   git checkout master
-  
+```
